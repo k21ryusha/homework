@@ -1,0 +1,2 @@
+.DS_Store # добавить в .gitignore, чтобы Git его игнорировал
+.DS_Store
